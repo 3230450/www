@@ -1,0 +1,12 @@
+custom-box {
+  background-color: #e6f7ff;
+  border: 2px solid #333;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 10px;
+}
+
+.scaled-img {
+  width: 10%;
+  height: auto;
+}
