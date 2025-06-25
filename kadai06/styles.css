@@ -1,0 +1,20 @@
+@charset UTF-8
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    background-image: url(../kadai06/index.html);
+    background-repeat: repeat-y;
+}
+
+h1,h2,h3,h4,p,ul,li{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 980px;
+    color: white;
+    background-color: black;
+    overflow: hidden;
+}
